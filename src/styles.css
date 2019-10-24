@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.user-card {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  align-items: center;
+  padding: 20px;
+  margin: 0 auto;
+  text-align: left;
+  max-width: 350px;
+}
+
+.user-card img {
+  max-width: 100px;
+  margin-right: 20px;
+}
+
+.user-card h1 {
+  margin: 0;
+  font-size: 18px;
+}
+
+.user-card p {
+  margin: 0;
+}
